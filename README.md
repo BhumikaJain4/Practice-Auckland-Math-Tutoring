@@ -2,7 +2,7 @@
 
 This is a responsive landing page for a fictional tutoring service — **Auckland Maths Tutoring** — built using **React**, **Vite**, and **Tailwind CSS**.
 
-![Landing Page Preview](./src/assets/screenshot.png)
+![Landing Page Preview](./src/assets/Screenshot.png)
 
 > 🧠 _Preview of the landing page above. Live demo coming soon!_
 
